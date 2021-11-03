@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoyamane&layout=compact)](https://github.com/lucianoyamane/github-readme-stats)
+
+
 <!--
 **lucianoyamane/lucianoyamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
